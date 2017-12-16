@@ -1,0 +1,74 @@
+{
+    "paint.paintEditor.redo": {
+        "message": "重做",
+        "description": "Alt to image for the button to redo an action"
+    },
+    "paint.paintEditor.fill": {
+        "message": "填充",
+        "description": "Label for the color picker for the fill color"
+    },
+    "paint.modeTools.eraserSize": {
+        "message": "橡皮檫大小",
+        "description": "Label for the eraser size input"
+    },
+    "paint.paintEditor.backward": {
+        "message": "下移一层",
+        "description": "Label for the `Send backward on canvas` button"
+    },
+    "paint.paintEditor.group": {
+        "message": "组合",
+        "description": "Label for the button to group shapes"
+    },
+    "paint.modeTools.paste": {
+        "message": "粘贴",
+        "description": "Label for the paste button"
+    },
+    "paint.paintEditor.saturation": {
+        "message": "饱和度",
+        "description": "Label for the saturation component in the color picker"
+    },
+    "paint.modeTools.brushSize": {
+        "message": "笔刷大小",
+        "description": "Label for the brush size input"
+    },
+    "paint.paintEditor.undo": {
+        "message": "撤销",
+        "description": "Alt to image for the button to undo an action"
+    },
+    "paint.paintEditor.forward": {
+        "message": "上移一层",
+        "description": "Label for the `Send forward on canvas` button"
+    },
+    "paint.paintEditor.brightness": {
+        "message": "亮度",
+        "description": "Label for the brightness component in the color picker"
+    },
+    "paint.paintEditor.costume": {
+        "message": "造型",
+        "description": "Label for the name of a sound"
+    },
+    "paint.paintEditor.back": {
+        "message": "移动到最底层",
+        "description": "Label for the `Send to back of canvas` button"
+    },
+    "paint.paintEditor.ungroup": {
+        "message": "取消组合",
+        "description": "Label for the button to ungroup shapes"
+    },
+    "paint.paintEditor.hue": {
+        "message": "颜色",
+        "description": "Label for the hue component in the color picker"
+    },
+    "paint.modeTools.copy": {
+        "message": "拷贝",
+        "description": "Label for the copy button"
+    },
+    "paint.paintEditor.front": {
+        "message": "移动到最上层",
+        "description": "Label for the `Send to front of canvas` button"
+    },
+    "paint.paintEditor.stroke": {
+        "message": "线条",
+        "description": "Label for the color picker for the outline color"
+    }
+}

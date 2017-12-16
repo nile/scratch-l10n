@@ -4,11 +4,12 @@
  */
 
 const locales = {
-    en: {name: 'English'},
-    ar: {name: 'الْعَرَبِيَّة'},
-    de: {name: 'Deutsch'},
-    es: {name: 'Español'},
-    he: {name: 'עִבְרִית'}
+    zh: { name: '简体中文' },
+    en: { name: 'English' },
+    ar: { name: 'الْعَرَبِيَّة' },
+    de: { name: 'Deutsch' },
+    es: { name: 'Español' },
+    he: { name: 'עִבְרִית' }
 };
 
-export {locales as default};
+export { locales as default };

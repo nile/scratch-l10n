@@ -1,0 +1,70 @@
+{
+    "pen.setColor": {
+        "message": "设置画笔颜色 [COLOR]",
+        "description": "set the pen color to a particular (RGB) value"
+    },
+    "pen.setColorParam": {
+        "message": "修改画笔 [COLOR_PARAM] 为 [VALUE]",
+        "description": "set the state for a pen color parameter e.g. saturation"
+    },
+    "pen.colorMenu.brightness": {
+        "message": "亮度",
+        "description": "label for brightness element in color picker for pen extension"
+    },
+    "pen.setSize": {
+        "message": "设置画笔粗细 [SIZE]",
+        "description": "set the diameter of a trail left by a sprite"
+    },
+    "pen.changeHue": {
+        "message": "修改画笔饱和度 [HUE]",
+        "description": "legacy pen blocks - change pen color"
+    },
+    "pen.stamp": {
+        "message": "印章",
+        "description": "render current costume on the background"
+    },
+    "pen.clear": {
+        "message": "清除",
+        "description": "erase all pen trails and stamps"
+    },
+    "pen.setHue": {
+        "message": "设置画笔饱和度 [HUE]",
+        "description": "legacy pen blocks - set pen color to number"
+    },
+    "pen.setShade": {
+        "message": "设置画笔阴影 [SHADE]",
+        "description": "legacy pen blocks - set pen shade"
+    },
+    "pen.colorMenu.color": {
+        "message": "颜色",
+        "description": "label for color element in color picker for pen extension"
+    },
+    "pen.changeSize": {
+        "message": "修改画笔粗细 [SIZE]",
+        "description": "change the diameter of the trail left by a sprite"
+    },
+    "pen.colorMenu.transparency": {
+        "message": "透明度",
+        "description": "label for transparency element in color picker for pen extension"
+    },
+    "pen.changeColorParam": {
+        "message": "修改颜色的 [COLOR_PARAM] 为 [VALUE]",
+        "description": "change the state of a pen color parameter"
+    },
+    "pen.penDown": {
+        "message": "放下画笔",
+        "description": "start leaving a trail when the sprite moves"
+    },
+    "pen.penUp": {
+        "message": "抬起画笔",
+        "description": "停止画笔"
+    },
+    "pen.colorMenu.saturation": {
+        "message": "饱和度",
+        "description": "label for saturation element in color picker for pen extension"
+    },
+    "pen.changeShade": {
+        "message": "修改画笔阴影 [SHADE]",
+        "description": "legacy pen blocks - change pen shade"
+    }
+}
